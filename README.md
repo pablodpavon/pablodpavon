@@ -1,4 +1,4 @@
-### Pablo Pavón · Senior Business & Data Analyst
+### Pablo Pavon · Senior Business & Data Analyst
 
 I turn business questions into analysis, dashboards and automations that people can trust, because the numbers are checked before anyone reads them. Ten-plus years across banking, e-commerce and insurance. I use AI to execute faster and validate the business logic and every number myself.
 
