@@ -1,11 +1,12 @@
-### Pablo Pavon · Senior Business & Data Analyst
+### Pablo Pavon · Freelance Senior Business & Data Analyst, Berlin
 
 I turn business questions into analysis, dashboards and automations that people can trust, because the numbers are checked before anyone reads them. Ten-plus years across banking, e-commerce and insurance. I use AI to execute faster and validate the business logic and every number myself.
 
-**Portfolio:** [pablodpavon.github.io](https://pablodpavon.github.io) · **LinkedIn:** [pablo-damian-pavon](https://www.linkedin.com/in/pablo-damian-pavon) · **Email:** pablodpavon@gmail.com
+**Portfolio:** [pablodpavon.com](https://pablodpavon.com) · **LinkedIn:** [pablo-damian-pavon](https://www.linkedin.com/in/pablo-damian-pavon) · **Email:** contact@pablodpavon.com
 
 | Project | What it shows |
 |---|---|
+| [daily-cash-control](https://github.com/pablodpavon/daily-cash-control) | Bank reconciliation, collections and a cash forecast that run by themselves every morning |
 | [ap-invoice-control](https://github.com/pablodpavon/ap-invoice-control) | Accounts payable control for an Argentine company: CUIT validation, 3-way match, 12 rules, control totals |
 | [data-migration-toolkit](https://github.com/pablodpavon/data-migration-toolkit) | Legacy-to-new migration driven by a mapping spec, with a 12-check reconciliation |
 | [ai-kpi-commentary](https://github.com/pablodpavon/ai-kpi-commentary) | LLM-drafted KPI commentary where every number is verified before release |
@@ -16,4 +17,4 @@ SQL · Python (pandas, scikit-learn) · Power BI · Tableau · Excel · requirem
 
 ---
 
-**En español:** analista senior de negocio y datos. Convierto preguntas de negocio en análisis, tableros y automatizaciones confiables, con controles para que los números cierren. Trabajo remoto, en español, inglés y alemán. Portfolio completo en [pablodpavon.github.io](https://pablodpavon.github.io).
+**En español:** analista senior de negocio y datos. Convierto preguntas de negocio en análisis, tableros y automatizaciones confiables, con controles para que los números cierren. Trabajo remoto, en español, inglés y alemán. Portfolio completo en [pablodpavon.com/es](https://pablodpavon.com/es/).
